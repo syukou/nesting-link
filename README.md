@@ -1,2 +1,2 @@
 # nesting-link
-Nested anchor link
+リンクが設定された親ボックスの中に複数の別リンクを設置したい場合の一例。
